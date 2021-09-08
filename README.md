@@ -1,2 +1,2 @@
 # CLI-Quiz-Nodejs
- CLI Quiz program using node.js
+ CLI Quiz app using node.js
